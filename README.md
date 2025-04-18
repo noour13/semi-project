@@ -44,3 +44,4 @@
 
 ## 📜 الرخصة
 مشروع مفتوح المصدر متاح تحت رخصة MIT.
+![image](https://github.com/user-attachments/assets/9ca0bed3-43b6-4107-aca8-bf5fa1640f11)
